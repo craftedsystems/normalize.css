@@ -1,5 +1,9 @@
 # Changes to normalize.css
 
+### 7.0.0-crafted.systems (June 14, 2017)
+
+* Removed rules for IE10- and old browser versions.
+
 ### 7.0.0 (May 2, 2017)
 
 * Revert changes in `body` and form elements styles introduced by v6
